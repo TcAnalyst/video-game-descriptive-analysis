@@ -11,10 +11,10 @@ The dataset comprises information on video games with sales surpassing 100,000 c
 Utilizing Microsoft SQL Server, data was extracted for the years 2000-2017 using the select syntax. Subsequently, the extracted data underwent scrutiny in Excel, where duplicate rows were removed, columns were checked for irregularities using the filter tab, and data types were corrected. The Power BI platform was then used for further analysis.
 
 ## 4. Summary Statistics:
-Between 2000 and 2017, a total of 7,164 video game sales were recorded, averaging 0.5 sales.
+![Screenshot (115)](https://github.com/TcAnalyst/videogameanalysis/assets/142181097/346221b0-ddc0-4c23-be54-4244616780c3)
 
 ### By Year:
-In 2008, the highest sum of sales (678.90) was observed, surpassing 2017 by 1,357,700%. 2008 accounted for 9.48% of the total sales.
+Between 2000 and 2017, a total of 7,164 video game sales were recorded, averaging 0.5 sales. In 2008, the highest sum of sales (678.90) was observed, surpassing 2017 by 1,357,700%. 2008 accounted for 9.48% of the total sales.
 
 ### By Genre:
 The Action genre led in EU sales at 472.07, surpassing Strategy by 1,343.64%. Action constituted 22.53% of EU sales. Across all 12 genres, EU, JP, and North America sales displayed a range of values.
